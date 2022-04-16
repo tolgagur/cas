@@ -22,7 +22,6 @@ import static javax.persistence.GenerationType.IDENTITY;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name = "file")
 public class File {
     @Id
     @GeneratedValue(strategy = AUTO)
