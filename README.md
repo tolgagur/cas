@@ -53,9 +53,9 @@ Swagger-UI : http://localhost:8080/swagger-ui.html#/
 
 **GET /api/file/all**
 
-**DELETE /api/file/delete/{id}**
+**DELETE /api/file/deleteById/{id}**
 
-**DELETE /api/file/delete/{name}**
+**DELETE /api/file/deleteByName/{name}**
 
 **PUT /api/file/update/{id}**
 
@@ -81,9 +81,9 @@ Swagger-UI : http://localhost:8080/swagger-ui.html#/
 
 **GET /api/customer/all**
 
-**DELETE /api/customer/delete/{id}**
+**DELETE /api/customer/deleteById/{id}**
 
-**DELETE /api/customer/delete/{name}**
+**DELETE /api/customer/deleteByName/{name}**
 
 **PUT /api/customer/update/{id}**
 
