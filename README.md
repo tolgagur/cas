@@ -1,5 +1,6 @@
 
 Swagger-UI : http://localhost:8080/swagger-ui.html#/
+Postman API Documentation : https://documenter.getpostman.com/view/13362796/Uyr5oKEk
 
 # A**uth Controller**
 
